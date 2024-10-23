@@ -1,5 +1,3 @@
 Hello Changes using GIT CMD
 
-abcd
-
-1234
+Changes 1
